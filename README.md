@@ -13,12 +13,13 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 This is a queuing model in which the arrival is Marcovian and departure distribution is also Marcovian,number of server is one and size of the queue is also Marcovian,no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
 
 ## Procedure :
+<img width="602" height="303" alt="image" src="https://github.com/user-attachments/assets/2adb8399-aebd-4fd3-9fc4-05e9e404bf91" />
 
-![imAGE](2.png)
 
 
 
 ## Experiment:
+<img width="1016" height="582" alt="image" src="https://github.com/user-attachments/assets/e87f08dc-dcba-4d66-bc48-313696abd29b" />
 
 
  
@@ -26,6 +27,9 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
+<img width="832" height="367" alt="image" src="https://github.com/user-attachments/assets/e9cbddd7-7476-47b4-b45d-62c8c67fd898" />
+
 
 ## Result :
+Thus, the program has been executed successfully and the required parameters have been calculated as per thegivenconditions.
 
